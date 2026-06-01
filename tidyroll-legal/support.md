@@ -37,7 +37,7 @@ You can also tap **Select more** in the app to add photos to the limited selecti
 
 ### Is my data private?
 Yes. Tidy Roll has no accounts or servers, collects no personal data, and your photos
-never leave your device. See our Privacy Policy at [PRIVACY POLICY URL].
+never leave your device. See our [Privacy Policy](https://tomasvvv.github.io/tidyroll-legal/privacy/).
 
 ## Contact
 
