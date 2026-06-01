@@ -11,4 +11,4 @@ Legal and support information for the Tidy Roll iOS app.
 - [Terms of Use](/tidyroll-legal/terms/)
 - [Support](/tidyroll-legal/support/)
 
-Contact: [tovosylius@gmail.com](mailto:tovosylius@gmail.com)
+Contact: [tidyrollapp@gmail.com](mailto:tidyrollapp@gmail.com)
