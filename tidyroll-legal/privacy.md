@@ -6,7 +6,7 @@ permalink: /tidyroll-legal/privacy/
 # Privacy Policy
 
 **App:** Tidy Roll
-**Developer:** tomasvvv [LEGAL ENTITY NAME, if different]
+**Developer:** tomasvvv
 **Effective date:** 2026-06-01
 
 Tidy Roll ("the app", "we", "us") is a photo and video cleanup tool. Your privacy
@@ -58,7 +58,7 @@ is under your control; deleting the app removes it.
 ## Changes to this policy
 
 If this policy changes, we will update the effective date above and post the revised
-version at [PRIVACY POLICY URL].
+version at [PRIVACY POLICY URL](https://tomasvvv.github.io/tidyroll-legal/privacy/).
 
 ## Contact
 
