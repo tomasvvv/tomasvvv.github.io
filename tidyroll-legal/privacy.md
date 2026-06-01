@@ -62,4 +62,4 @@ version at [PRIVACY POLICY URL].
 
 ## Contact
 
-Questions about privacy? Email **tovosylius@gmail.com**.
+Questions about privacy? Email **tidyrollapp@gmail.com**.
