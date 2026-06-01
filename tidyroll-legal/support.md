@@ -8,7 +8,7 @@ permalink: /tidyroll-legal/support/
 Tidy Roll helps you swipe through your photos and videos to quickly keep or delete
 them and free up storage — all on your device.
 
-**Need help? Email us at [tovosylius@gmail.com](mailto:tovosylius@gmail.com).** We're
+**Need help? Email us at [tidyrollapp@gmail.com](mailto:tidyrollapp@gmail.com).** We're
 happy to help.
 
 ## Frequently asked questions
@@ -41,4 +41,4 @@ never leave your device. See our Privacy Policy at [PRIVACY POLICY URL].
 
 ## Contact
 
-**Email:** tovosylius@gmail.com
+**Email:** tidyrollapp@gmail.com
