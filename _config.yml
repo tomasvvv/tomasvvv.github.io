@@ -1,0 +1,9 @@
+title: Tidy Roll
+description: Photo & video cleanup for iOS - legal & support
+theme: jekyll-theme-cayman
+
+defaults:
+  - scope:
+      path: "tidyroll-legal"
+    values:
+      layout: default

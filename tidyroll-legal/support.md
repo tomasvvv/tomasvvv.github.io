@@ -1,3 +1,8 @@
+---
+title: Tidy Roll Support
+permalink: /tidyroll-legal/support/
+---
+
 # Tidy Roll — Support
 
 Tidy Roll helps you swipe through your photos and videos to quickly keep or delete

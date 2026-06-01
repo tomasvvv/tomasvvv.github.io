@@ -1,3 +1,8 @@
+---
+title: Tidy Roll Privacy Policy
+permalink: /tidyroll-legal/privacy/
+---
+
 # Privacy Policy
 
 **App:** Tidy Roll

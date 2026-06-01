@@ -1,3 +1,8 @@
+---
+title: Tidy Roll Terms of Use
+permalink: /tidyroll-legal/terms/
+---
+
 # Terms of Use
 
 **App:** Tidy Roll
