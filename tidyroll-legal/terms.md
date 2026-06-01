@@ -6,7 +6,7 @@ permalink: /tidyroll-legal/terms/
 # Terms of Use
 
 **App:** Tidy Roll
-**Developer:** tomasvvv [LEGAL ENTITY NAME, if different]
+**Developer:** tomasvvv
 **Effective date:** 2026-06-01
 
 By downloading or using Tidy Roll ("the app"), you agree to these Terms of Use. If
@@ -69,14 +69,14 @@ your use of or inability to use the app.
 
 ## 7. Governing law
 
-These Terms are governed by the laws of [JURISDICTION], without regard to its
+These Terms are governed by the laws of Lithuania, without regard to its
 conflict-of-laws rules.
 
 ## 8. Changes
 
 We may update these Terms from time to time. The current version is posted at
-[TERMS OF USE URL], and continued use of the app after changes constitutes acceptance.
+[TERMS OF USE](https://tomasvvv.github.io/tidyroll-legal/terms/), and continued use of the app after changes constitutes acceptance.
 
 ## Contact
 
-Questions about these Terms? Email **tovosylius@gmail.com**.
+Questions about these Terms? Email **tidyrollapp@gmail.com**.
