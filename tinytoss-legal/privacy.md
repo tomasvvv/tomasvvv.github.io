@@ -1,10 +1,15 @@
+---
+title: Tiny Toss Privacy Policy
+permalink: /tinytoss-legal/privacy/
+---
+
 # Privacy Policy
 
-**App:** Tidy Roll
+**App:** Tiny Toss
 **Developer:** tomasvvv
 **Effective date:** 2026-06-01
 
-Tidy Roll ("the app", "we", "us") is a photo and video cleanup tool. Your privacy
+Tiny Toss ("the app", "we", "us") is a photo and video cleanup tool. Your privacy
 matters, and the design is simple: **your photos and videos stay on your device,
 and we collect only limited anonymous analytics metadata to understand and improve
 the app.**
@@ -20,7 +25,7 @@ the app.**
 
 ## Photo library access
 
-Tidy Roll requests access to your photo library so it can show your photos and
+Tiny Toss requests access to your photo library so it can show your photos and
 videos and let you keep or delete them. This access is used **only on your device**
 to display the media you choose to review and to carry out deletions you confirm.
 We never copy, transmit, or retain your media. You can grant full or limited access
@@ -29,7 +34,7 @@ Photos**.
 
 ## Anonymous analytics
 
-Tidy Roll uses TelemetryDeck, a privacy-focused analytics service, to collect
+Tiny Toss uses TelemetryDeck, a privacy-focused analytics service, to collect
 anonymous metadata about how the app is used. This helps us understand whether the
 app is working well, which features are useful, and where users may run into
 problems.
@@ -43,7 +48,7 @@ information, crash data, and performance data.
 
 We do **not** send your photos, videos, filenames, photo contents, location data,
 contacts, advertising identifiers, email address, name, or payment-card details to
-TelemetryDeck. Analytics events are not linked to an account, because Tidy Roll has
+TelemetryDeck. Analytics events are not linked to an account, because Tiny Toss has
 no accounts or logins.
 
 TelemetryDeck may use an anonymous installation or device/vendor identifier to
@@ -59,7 +64,7 @@ not uploaded as personal data, and is removed when you delete the app.
 
 ## Purchases
 
-Tidy Roll Pro is sold through Apple's In-App Purchase system as auto-renewing
+Tiny Toss Pro is sold through Apple's In-App Purchase system as auto-renewing
 Monthly and Yearly subscriptions and a one-time Lifetime purchase. **Apple processes
 all payments.** We never receive or store your payment-card details. Apple's handling
 of purchase data is governed by Apple's own privacy policy. We may collect anonymous
@@ -68,7 +73,7 @@ started, completed, failed, restored, renewed, cancelled, upgraded, or downgrade
 
 ## Children
 
-Tidy Roll is not directed to children under 13, and we do not knowingly collect any
+Tiny Toss is not directed to children under 13, and we do not knowingly collect any
 information from children.
 
 ## Data retention and your rights
@@ -82,7 +87,7 @@ up, export, or delete analytics records for a specific person.
 ## Changes to this policy
 
 If this policy changes, we will update the effective date above and post the revised
-version at [PRIVACY POLICY](https://tomasvvv.github.io/tidyroll-legal/privacy).
+version at [PRIVACY POLICY](https://tomasvvv.github.io/tinytoss-legal/privacy).
 
 ## Contact
 

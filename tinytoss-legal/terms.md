@@ -1,28 +1,28 @@
 ---
-title: Tidy Roll Terms of Use
-permalink: /tidyroll-legal/terms/
+title: Tiny Toss Terms of Use
+permalink: /tinytoss-legal/terms/
 ---
 
 # Terms of Use
 
-**App:** Tidy Roll
+**App:** Tiny Toss
 **Developer:** tomasvvv
 **Effective date:** 2026-06-01
 
-By downloading or using Tidy Roll ("the app"), you agree to these Terms of Use. If
+By downloading or using Tiny Toss ("the app"), you agree to these Terms of Use. If
 you do not agree, do not use the app. Apple's **Standard End User License Agreement
 (EULA)** also applies and is available at
 https://www.apple.com/legal/internet-services/itunes/dev/stdeula/.
 
 ## 1. License
 
-We grant you a personal, non-transferable, non-exclusive license to use Tidy Roll on
+We grant you a personal, non-transferable, non-exclusive license to use Tiny Toss on
 Apple devices that you own or control, in accordance with these Terms and Apple's
 Standard EULA.
 
-## 2. Tidy Roll Pro, subscriptions, and purchases
+## 2. Tiny Toss Pro, subscriptions, and purchases
 
-Some features require **Tidy Roll Pro**, available as:
+Some features require **Tiny Toss Pro**, available as:
 
 - an **auto-renewing Monthly subscription**,
 - an **auto-renewing Yearly subscription**, or
@@ -45,7 +45,7 @@ requests.
 
 ## 3. Deletions are permanent — back up your data
 
-Tidy Roll helps you delete photos and videos. **Deletions follow the behavior of the
+Tiny Toss helps you delete photos and videos. **Deletions follow the behavior of the
 iOS Photos app: removed items go to "Recently Deleted" and are permanently erased
 after the system retention period.** You are solely responsible for maintaining your
 own backups. We are not liable for any loss of photos, videos, or other data
@@ -75,7 +75,7 @@ conflict-of-laws rules.
 ## 8. Changes
 
 We may update these Terms from time to time. The current version is posted at
-[TERMS OF USE](https://tomasvvv.github.io/tidyroll-legal/terms/), and continued use of the app after changes constitutes acceptance.
+[TERMS OF USE](https://tomasvvv.github.io/tinytoss-legal/terms/), and continued use of the app after changes constitutes acceptance.
 
 ## Contact
 

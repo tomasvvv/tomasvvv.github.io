@@ -1,9 +1,9 @@
-title: Tidy Roll
+title: Tiny Toss
 description: Photo & video cleanup for iOS - legal & support
 theme: jekyll-theme-cayman
 
 defaults:
   - scope:
-      path: "tidyroll-legal"
+      path: "tinytoss-legal"
     values:
       layout: default
